@@ -27,4 +27,5 @@ Authentication: Mechanisms like JSON Web Tokens (JWT) for secure user authentica
 Real-Time Collaboration:
 
 **Output**:
+![Screenshot 2025-01-03 205320](https://github.com/user-attachments/assets/8502d7f3-d6b1-478a-a29b-d21c9bf560a0)
 
